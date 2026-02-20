@@ -7,3 +7,6 @@ The dashboard integrates trend analysis, industry comparison, regression modelin
 
 Tools Used: Tableau Public
 Skills Demonstrated: Time-series analysis, data storytelling, dashboard design, correlation analysis, interactive filtering
+
+Tableau Public Link: https://public.tableau.com/app/profile/pradhiksha.suresh/viz/LayoffsAnalysis_17715683563240/FundingvsLayoffsIsCapitalProtective?publish=yes
+
